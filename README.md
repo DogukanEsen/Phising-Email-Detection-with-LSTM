@@ -1,2 +1,2 @@
-# Phising Email Detection with LSTM
- 
+# Phishing Email Detection with LSTM
+Bu projede zararlı ve zararsız email sınıflandırılması yapılmıştır. Maillerin bodysine göre zararlı ve zararsız olduğunu tespit eder. Projede LSTM kullanılmıştır.  
